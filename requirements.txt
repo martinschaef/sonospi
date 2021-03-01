@@ -1,0 +1,4 @@
+Flask==1.1.2
+requests==2.25.0
+simplejson==3.17.2
+soco==0.21.2
